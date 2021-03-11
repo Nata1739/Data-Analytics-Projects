@@ -1,7 +1,7 @@
 # Data-Analytics-Projects
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
-| :------------ |:---------------:| -----:|
+| Project       | Description    | Used libraries |
+| :------------ |:---------------| :--------------|
 | col 3 is      | some wordy text | 00 |
 | col 2 is      | centered        |    |
 | zebra stripes | are neat        |     |
