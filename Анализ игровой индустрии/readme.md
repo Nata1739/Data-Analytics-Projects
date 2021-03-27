@@ -7,4 +7,4 @@
 * Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
 
 ### Стек:
-* Pandas, Numpy, Scipy, Matplotlib, Seaborn
+* Pandas, Numpy, Seaborn, Matplotlib, exploratory data analysis, data visualization, data preprocessing, hypothesis testing
