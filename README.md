@@ -3,7 +3,10 @@
 | Project       | Description    | Used libraries |
 | :------------ |:---------------| :--------------|
 | [Анализ игровой индустрии](https://github.com/Nata1739/Data-Analytics-Projects/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D0%B8)       | Необходимо выявить определяющие успешность игры <br>закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании. | Pandas, Numpy, <br>Seaborn, Matplotlib, <br>exploratory data analysis, <br>data visualization, data preprocessing, <br>hypothesis testing |
-[Аналитика в Яндекс.Афишеи](https://github.com/Nata1739/Data-Analytics-Projects/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%90%D1%84%D0%B8%D1%88%D0%B5)       | Необходимо помочь маркетологам оптимизировать маркетинговые затраты. | Pandas, Numpy, <br>Seaborn, Matplotlib, <br>exploratory data analysis, <br>data visualization, data preprocessing, <br>hypothesis testing |
+[Аналитика в Яндекс.Афише](https://github.com/Nata1739/Data-Analytics-Projects/tree/main/%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81.%D0%90%D1%84%D0%B8%D1%88%D0%B5)       | В распоряжении есть данные от Яндекс.Афиши с июня 2017 по конец мая 2018 года:
+- лог сервера с данными о посещениях сайта Яндекс.Афиши,
+- выгрузка всех заказов за этот период,
+- статистика рекламных расходов. Необходимо помочь маркетологам оптимизировать маркетинговые затраты. | Pandas, Numpy, <br>Seaborn, Matplotlib, <br>exploratory data analysis, <br>data visualization, data preprocessing, <br>hypothesis testing |
 
 | col 2 is      | centered        |    |
 | zebra stripes | are neat        |     |
